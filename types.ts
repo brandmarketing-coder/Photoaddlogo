@@ -12,7 +12,7 @@ export const DEFAULT_SETTINGS: EditorSettings = {
 
   // [調整 Bar 高度] 
   // 決定綠色底條佔整張照片高度的比例 (0.1 = 10%)
-  footerHeightRatio: 0.15, 
+  footerHeightRatio: 0.125, 
 
   // [調整 Logo 大小] 
   // 決定 Logo 在底條內的上下留白比例 (0.25 = 上下各留 25% 空間，Logo 本身佔 50% 高度)
